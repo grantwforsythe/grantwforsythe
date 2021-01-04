@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2> Hi, I'm Grant!</h2>
+<p>Studied <em>Mathematics & Statistics</em> at <a href="https://www.mcmaster.ca/">McMaster University</a>.</p>
 
-<!--
-**grantwforsythe/grantwforsythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Grantwforsythe](https://img.shields.io/badge/-grantwforsythe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grantwforsythe/)](https://www.linkedin.com/in/grantwforsythe/)
+[![GitHub Grantwforsythe](https://img.shields.io/github/followers/grantwforsythe?label=follow&style=social)](https://github.com/grantwforsythe)
+[![Pages: Grantwforsythe](https://img.shields.io/badge/-GitHub%20Page-blue)](https://grantwforsythe.github.io/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```python
+class GrantwForsythe:
+
+    def __init__(self):
+        self.username = 'grantwforsythe'
+        self.name = 'Grant Forsythe'
+        self.code = {
+            'languages': ['Python', 'SQL', 'R', 'Latex'],
+            'libaries': ['NumPy', 'Pandas', 'MatplotLib', 'SciPy'],
+            'database': ['MySQL', 'MongoDB'],
+            'devops': ['Docker', 'AWS'],
+            'tools': ['GIT', 'GitHub', 'Jupyter notebook'],
+            'misc': ['Linux']
+        }
+
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = GrantwForsythe()
+```
+
+Thanks for viewing my profile!
+
+---
