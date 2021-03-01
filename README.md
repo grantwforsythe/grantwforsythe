@@ -10,7 +10,9 @@
 ### A little more about me...  
 
 ```python
-class GrantwForsythe:
+#!/usr/bin/env python3
+
+class Grant(Forsythe):
 
     def __init__(self):
         self.username = 'grantwforsythe'
@@ -24,13 +26,12 @@ class GrantwForsythe:
             'misc': ['Linux']
         }
 
-
-    def __str__(self):
+    def __repr__(self):
         return self.name
 
 
 if __name__ == '__main__':
-    me = GrantwForsythe()
+    me = Grant()
 ```
 
 ### Thanks for viewing my profile!
