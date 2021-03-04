@@ -34,7 +34,6 @@ if __name__ == '__main__':
     me = Grant()
 ```
 
-### Thanks for viewing my profile!
 
 
 ---
