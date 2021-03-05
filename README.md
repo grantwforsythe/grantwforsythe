@@ -1,4 +1,4 @@
-<h2> Hi, I'm Grant!</h2>
+<h2> Hi,</h2>
 <p>Currently studying <em>Mathematics & Statistics</em> at <a href="https://www.mcmaster.ca/">McMaster University</a>.</p>
 <p>Previously studied <em>Commerce</em> and minored in <em>Economics</em> also at <a href="https://www.mcmaster.ca/">McMaster University</a>.</p>
 
@@ -12,28 +12,31 @@
 ```python
 #!/usr/bin/env python3
 
-class Grant(Forsythe):
-
+class Forsythe:
     def __init__(self):
+        self.lname = 'Forsythe'
+
+class Grant(Forsythe):
+    def __init__(self):
+        super().__init__()
         self.username = 'grantwforsythe'
-        self.name = 'Grant Forsythe'
-        self.code = {
+        self.fname = 'Grant'
+        self.skills = {
             'languages': ['Python', 'SQL', 'R', 'Latex'],
-            'libaries': ['NumPy', 'Pandas', 'MatplotLib', 'SciPy'],
+            'libaries': ['NumPy', 'Pandas', 'Matplotlib', 'SciPy', 'Seaborn', 'GGplot', 'Dplyr'],
             'database': ['MySQL', 'MongoDB'],
             'devops': ['Docker', 'AWS'],
-            'tools': ['GIT', 'GitHub', 'Jupyter notebook'],
-            'misc': ['Linux']
+            'tools': ['Jupyter Notebook', 'PyCharm', 'VS Code', 'RStudio', 'GitHub', 'Microsoft Excel']
         }
 
-    def __repr__(self):
-        return self.name
+    def __str__(self):
+        return f"{self.fname} {self.lname}"
 
 
 if __name__ == '__main__':
     me = Grant()
+    print(me)
 ```
-
 
 
 ---
