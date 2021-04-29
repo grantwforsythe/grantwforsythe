@@ -7,7 +7,6 @@
 [![GitHub Grantwforsythe](https://img.shields.io/github/followers/grantwforsythe?label=follow&style=social)](https://github.com/grantwforsythe)
 [![Pages: Grantwforsythe](https://img.shields.io/badge/-GitHub%20Page-blue)](https://grantwforsythe.github.io/)
 
-<!---
 ### A little more about me...  
 
 ```python
@@ -38,6 +37,5 @@ if __name__ == '__main__':
     me = Grant()
     print(me)
 ```
--->
 
 ---
