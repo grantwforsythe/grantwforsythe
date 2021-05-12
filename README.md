@@ -1,14 +1,14 @@
-<h2> Hello,</h2>
 <!---
+<h2> Hello,</h2>
 <p>I am currently studying <em>Mathematics & Statistics</em> at <a href="https://www.mcmaster.ca/">McMaster University</a>.</p>
 --> 
-
+<!--
 [![Linkedin: Grantwforsythe](https://img.shields.io/badge/-grantwforsythe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grantwforsythe/)](https://www.linkedin.com/in/grantwforsythe/)
 [![GitHub Grantwforsythe](https://img.shields.io/github/followers/grantwforsythe?label=follow&style=social)](https://github.com/grantwforsythe)
 [![Pages: Grantwforsythe](https://img.shields.io/badge/-GitHub%20Page-blue)](https://grantwforsythe.github.io/)
-
-### A little more about me...  
-
+-->
+ 
+<!--
 ```python
 #!/usr/bin/env python3
 
@@ -37,5 +37,5 @@ if __name__ == '__main__':
     me = Grant()
     print(me)
 ```
-
+-->
 ---
