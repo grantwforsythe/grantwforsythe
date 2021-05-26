@@ -1,6 +1,4 @@
 ## Hello,
-### About Me:
-
 - Recently graduated from McMaster University with degrees in Commerce and Statistics.
 - In my free time you can usually find me [watching movies](https://www.imdb.com/user/ur61970219/?ref_=nv_usr_prof_2), hiking, or learning something new.
 - **Currently seeking data analyst or back-end positions.**
