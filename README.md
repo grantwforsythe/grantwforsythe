@@ -20,5 +20,6 @@
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
 </p>
 
-### Stats
-[![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=grantwforsythe)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=grantwforsythe&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grantwforsythe&hide=jupyter+notebook,vim+script&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
