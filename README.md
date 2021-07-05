@@ -65,7 +65,7 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
     </div>
 </details>
   
- ## Contact Me
+ ## Connect With Me
   
 <p align="center">
   <a href="https://www.linkedin.com/in/grantwforsythe/">
