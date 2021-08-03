@@ -66,11 +66,17 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
 </details>
   
 <details>
-  <summary>🔥 Streak stats</summary>
+  <summary>🔥 Streak Stats</summary>
     <div align="center">
       <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=grantwforsythe">
     </div>
 </details>
+  
+ <details>
+   <summary>:zap: Recent GitHub Activity</summary>
+   <!--START_SECTION:activity-->
+   <!--END_SECTION:activity-->
+ </details>
   
  ## Connect With Me
   
