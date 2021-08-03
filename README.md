@@ -49,7 +49,10 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
 </p>
 
 ## Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Reading List](https://www.grantwforsythe.com/posts/52-books/)
+- [Freedom of Speech](https://www.grantwforsythe.com/posts/freedom-of-speech/)
+<!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
   
