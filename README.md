@@ -24,7 +24,7 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
   <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<!--   <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> -->
+<a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> -->
   <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a> -->
