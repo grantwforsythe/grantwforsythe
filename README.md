@@ -76,11 +76,11 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
    <summary>:zap: Recent GitHub Activity</summary>
    
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#62](https://github.com/jamesgeorge007/github-activity-readme/issues/62) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#62](https://github.com/jamesgeorge007/github-activity-readme/issues/62) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#323](https://github.com/cotes2020/jekyll-theme-chirpy/issues/323) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-4. 🎉 Merged PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
-5. 💪 Opened PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+1. 🎉 Merged PR [#4](https://github.com/grantwforsythe/CS50x/pull/4) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+2. 💪 Opened PR [#4](https://github.com/grantwforsythe/CS50x/pull/4) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+3. ❗️ Closed issue [#62](https://github.com/jamesgeorge007/github-activity-readme/issues/62) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#62](https://github.com/jamesgeorge007/github-activity-readme/issues/62) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#323](https://github.com/cotes2020/jekyll-theme-chirpy/issues/323) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
    
  </details>
