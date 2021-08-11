@@ -76,11 +76,11 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
    <summary>:zap: Recent GitHub Activity</summary>
    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#323](https://github.com/cotes2020/jekyll-theme-chirpy/issues/323) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-2. 🎉 Merged PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
-3. 💪 Opened PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
-4. 🗣 Commented on [#723](https://github.com/mtxr/vscode-sqltools/issues/723) in [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools)
-5. 🎉 Merged PR [#3](https://github.com/grantwforsythe/ARIMA-Model/pull/3) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
+1. ❗️ Opened issue [#62](https://github.com/jamesgeorge007/github-activity-readme/issues/62) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#323](https://github.com/cotes2020/jekyll-theme-chirpy/issues/323) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+3. 🎉 Merged PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+4. 💪 Opened PR [#1](https://github.com/grantwforsythe/goodwin-keen-model/pull/1) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+5. 🗣 Commented on [#723](https://github.com/mtxr/vscode-sqltools/issues/723) in [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools)
 <!--END_SECTION:activity-->
    
  </details>
