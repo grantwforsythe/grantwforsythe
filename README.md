@@ -76,11 +76,11 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
    <summary>:zap: Recent GitHub Activity</summary>
    
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-2. 💪 Opened PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-3. ❗️ Opened issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
-4. 🎉 Merged PR [#4](https://github.com/grantwforsythe/CS50x/pull/4) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-5. 💪 Opened PR [#4](https://github.com/grantwforsythe/CS50x/pull/4) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+1. ❗️ Closed issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+2. 🎉 Merged PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+3. 💪 Opened PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+4. ❗️ Opened issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+5. 🎉 Merged PR [#4](https://github.com/grantwforsythe/CS50x/pull/4) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
 <!--END_SECTION:activity-->
    
  </details>
