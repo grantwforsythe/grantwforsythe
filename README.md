@@ -76,11 +76,11 @@ I'm Grant, recent a graduated from McMaster University with degrees in Commerce 
    <summary>:zap: Recent GitHub Activity</summary>
    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
-2. ❗️ Closed issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
-3. 🎉 Merged PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-4. 💪 Opened PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-5. ❗️ Opened issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+1. 🗣 Commented on [#3](https://github.com/JordanLeich/Blackjack-21/issues/3) in [JordanLeich/Blackjack-21](https://github.com/JordanLeich/Blackjack-21)
+2. ❗️ Opened issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
+3. ❗️ Closed issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+4. 🎉 Merged PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+5. 💪 Opened PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
 <!--END_SECTION:activity-->
    
  </details>
