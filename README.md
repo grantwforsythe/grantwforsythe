@@ -7,22 +7,25 @@
 
 ## About Me
 - 👨‍🎓 Double Majored in Statistics & Commerce
-- 🌱 Currently learning TensorFlow & Scikit-Learn
+- 🌱 Currently learning TensorFlow + Keras and JavaScript  
 - 🏌️‍♂️ Working on my golf swing
 - 🎞️ Passionate about [cinematography](https://www.imdb.com/user/ur61970219/?ref_=nv_usr_prof_2)
+- 💼 Actively seeking a developer role 
 
-## 🧰 Technologies & Tools 
+## 🧰 Technologies & Tools
 <p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8ae"></a>
-    <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8ae"></a>
-    <a href="https://github.com/grantwforsythe/dotfiles/blob/main/.vimrc"><img alt="Vim" src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8ae"></a>
+    <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Editors-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8ae"></a>
+    <a href="https://github.com/grantwforsythe/dotfiles/blob/main/.vimrc"><img alt="Vim" src="https://img.shields.io/badge/Editors-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8ae"></a>
+    <!-- TODO: Replace "#" with a link to CS50x final project when finish -->
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Frameworks-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8ae"></a>
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8ae"></a>
