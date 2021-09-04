@@ -3,14 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
----
-
 ## About Me
 - 👨‍🎓 Double Majored in Statistics & Commerce
+- 💼 Actively seeking a developer role 
 - 🌱 Currently learning TensorFlow + Keras and JavaScript  
 - 🏌️‍♂️ Working on my golf swing
 - 🎞️ Passionate about [cinematography](https://www.imdb.com/user/ur61970219/?ref_=nv_usr_prof_2)
-- 💼 Actively seeking a developer role 
 
 ## 🧰 Technologies & Tools
 <p>
@@ -71,9 +69,9 @@
         <img style=""alt="Grant's GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     </a>
     <a href="https://twitter.com/grantwforsythe">
-        <img alt="Grant's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        <img alt="Grant's Twitter" width="35px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />
     </a> 
     <a href="https://linkedin.com/in/grantwforsythe/">
-        <img alt="Grant's LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img alt="Grant's LinkedIn" width="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />
     </a>
-</p >
+</p>
