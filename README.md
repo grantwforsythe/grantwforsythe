@@ -65,13 +65,13 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/grantwforsythe">
+    <a href="https://github.com/grantwforsythe" style="text-decoration: none;">
         <img style=""alt="Grant's GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     </a>
-    <a href="https://twitter.com/grantwforsythe">
+    <a href="https://twitter.com/grantwforsythe" style="text-decoration: none;">
         <img alt="Grant's Twitter" width="35px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />
     </a> 
-    <a href="https://linkedin.com/in/grantwforsythe/">
+    <a href="https://linkedin.com/in/grantwforsythe/" style="text-decoration: none;">
         <img alt="Grant's LinkedIn" width="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />
     </a>
 </p>
