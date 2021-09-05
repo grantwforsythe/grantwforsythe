@@ -27,6 +27,7 @@
     <a href="https://github.com/search?q=user%3Agrantwforsythe+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8ae"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8ae"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8ae"></a>
 </p>
 
