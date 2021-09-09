@@ -54,11 +54,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/JordanLeich/Blackjack-21/issues/3) in [JordanLeich/Blackjack-21](https://github.com/JordanLeich/Blackjack-21)
-2. ❗️ Opened issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
-3. ❗️ Closed issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
-4. 🎉 Merged PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
-5. 💪 Opened PR [#5](https://github.com/grantwforsythe/CS50x/pull/5) in [grantwforsythe/CS50x](https://github.com/grantwforsythe/CS50x)
+1. 🎉 Merged PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+2. 💪 Opened PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+3. 🗣 Commented on [#3](https://github.com/JordanLeich/Blackjack-21/issues/3) in [JordanLeich/Blackjack-21](https://github.com/JordanLeich/Blackjack-21)
+4. ❗️ Opened issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
+5. ❗️ Closed issue [#952](https://github.com/VundleVim/Vundle.vim/issues/952) in [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
   <!--END_SECTION:activity-->
     
  </details>
