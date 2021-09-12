@@ -54,11 +54,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-2. 💪 Opened PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-3. 🎉 Merged PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-4. 💪 Opened PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-5. 🗣 Commented on [#3](https://github.com/JordanLeich/Blackjack-21/issues/3) in [JordanLeich/Blackjack-21](https://github.com/JordanLeich/Blackjack-21)
+1. 🗣 Commented on [#2](https://github.com/grantwforsythe/goodwin-keen-model/issues/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+2. 🎉 Merged PR [#2](https://github.com/grantwforsythe/goodwin-keen-model/pull/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+3. 🎉 Merged PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+4. 💪 Opened PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+5. 🎉 Merged PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
   <!--END_SECTION:activity-->
     
  </details>
