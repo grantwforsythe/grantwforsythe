@@ -3,12 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-## About Me
+## 🧍 About Me
 - 👨‍🎓 Double Majored in Statistics & Commerce
 - 💼 Actively seeking a developer role 
-- 🌱 Currently learning TensorFlow + Keras and JavaScript  
+- 🌱 Currently learning TensorFlow + Keras 
 - 🏌️‍♂️ Working on my golf swing
-- 🎞️ Passionate about [cinematography](https://www.imdb.com/user/ur61970219/?ref_=nv_usr_prof_2)
 
 ## 🧰 Technologies & Tools
 <p>
