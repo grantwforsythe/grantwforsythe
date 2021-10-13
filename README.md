@@ -53,11 +53,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/grantwforsythe/goodwin-keen-model/issues/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
-2. 🎉 Merged PR [#2](https://github.com/grantwforsythe/goodwin-keen-model/pull/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
-3. 🎉 Merged PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-4. 💪 Opened PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
-5. 🎉 Merged PR [#1](https://github.com/grantwforsythe/gym-bot/pull/1) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+1. 🗣 Commented on [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
+2. ❗️ Closed issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
+3. 🗣 Commented on [#2](https://github.com/grantwforsythe/goodwin-keen-model/issues/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+4. 🎉 Merged PR [#2](https://github.com/grantwforsythe/goodwin-keen-model/pull/2) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
+5. 🎉 Merged PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
   <!--END_SECTION:activity-->
     
  </details>
