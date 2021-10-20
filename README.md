@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://grantwforsythe.com"><code>grantwforsythe.com</code></a> |
-  <a href="mailtograntwforsythe@pm.me"><code>grantwforsythe@pm.me</code></a>
+  <a href="mailto:grantwforsythe@pm.me"><code>grantwforsythe@pm.me</code></a>
 </p>
  
 <h2 align="left">Profile Summary</h2>
