@@ -38,11 +38,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#831](https://github.com/federico-terzi/espanso/issues/831) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
-2. ❗️ Opened issue [#831](https://github.com/federico-terzi/espanso/issues/831) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
-3. 🗣 Commented on [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
-4. ❗️ Closed issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
-5. 🎉 Merged PR [#2](https://github.com/grantwforsythe/gym-bot/pull/2) in [grantwforsythe/gym-bot](https://github.com/grantwforsythe/gym-bot)
+1. ❗️ Opened issue [#928](https://github.com/spiral-project/ihatemoney/issues/928) in [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney)
+2. 🗣 Commented on [#831](https://github.com/federico-terzi/espanso/issues/831) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+3. ❗️ Opened issue [#831](https://github.com/federico-terzi/espanso/issues/831) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+4. 🗣 Commented on [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
+5. ❗️ Closed issue [#199](https://github.com/cindyq/linuxjourney/issues/199) in [cindyq/linuxjourney](https://github.com/cindyq/linuxjourney)
   <!--END_SECTION:activity-->
     
  </details>
