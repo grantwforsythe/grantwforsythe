@@ -38,11 +38,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
-2. 🗣 Commented on [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
+1. 🎉 Merged PR [#4](https://github.com/grantwforsythe/ARIMA-Model/pull/4) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
+2. ❗️ Closed issue [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
 3. 🗣 Commented on [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
-4. ❗️ Opened issue [#928](https://github.com/spiral-project/ihatemoney/issues/928) in [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney)
-5. 🗣 Commented on [#831](https://github.com/federico-terzi/espanso/issues/831) in [federico-terzi/espanso](https://github.com/federico-terzi/espanso)
+4. 🗣 Commented on [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
+5. ❗️ Opened issue [#928](https://github.com/spiral-project/ihatemoney/issues/928) in [spiral-project/ihatemoney](https://github.com/spiral-project/ihatemoney)
   <!--END_SECTION:activity-->
     
  </details>
