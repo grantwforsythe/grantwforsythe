@@ -38,10 +38,10 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
-2. 🎉 Merged PR [#4](https://github.com/grantwforsythe/ARIMA-Model/pull/4) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
-3. ❗️ Closed issue [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
-4. 🗣 Commented on [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
+1. ❗️ Closed issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
+2. ❗️ Opened issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
+3. 🎉 Merged PR [#4](https://github.com/grantwforsythe/ARIMA-Model/pull/4) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
+4. ❗️ Closed issue [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
 5. 🗣 Commented on [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
   <!--END_SECTION:activity-->
     
