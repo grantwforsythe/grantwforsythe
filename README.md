@@ -38,11 +38,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. ❗️ Closed issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
-3. ❗️ Opened issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
-4. 🎉 Merged PR [#4](https://github.com/grantwforsythe/ARIMA-Model/pull/4) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
-5. ❗️ Closed issue [#28](https://github.com/proginosko/LeechBlock/issues/28) in [proginosko/LeechBlock](https://github.com/proginosko/LeechBlock)
+1. 🗣 Commented on [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. ❗️ Opened issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. ❗️ Closed issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
+4. ❗️ Opened issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
+5. 🎉 Merged PR [#4](https://github.com/grantwforsythe/ARIMA-Model/pull/4) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
   <!--END_SECTION:activity-->
     
  </details>
