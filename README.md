@@ -6,7 +6,6 @@
 <p align="center">
    <a href="https://github.com/grantwforsythe"><img src="https://img.shields.io/badge/-grantwforsythe-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/grantwforsythe"><img src="https://img.shields.io/badge/-grantwforsythe-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/grantwforsythe"><img src="https://img.shields.io/badge/-@grantwforsythe-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
 <!--   <a href="https://grantwforsythe.com"><img src="https://img.shields.io/badge/-grantwforsythe.com-ffdab9?style=flat&logoColor=white" /></a> -->
 </p>
 
