@@ -37,11 +37,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 💪 Opened PR [#19](https://github.com/apratimshukla6/RiRa/pull/19) in [apratimshukla6/RiRa](https://github.com/apratimshukla6/RiRa)
+2. ❗️ Closed issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
 3. 🗣 Commented on [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. ❗️ Opened issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. ❗️ Closed issue [#323](https://github.com/rage/java-programming/issues/323) in [rage/java-programming](https://github.com/rage/java-programming)
+4. 🗣 Commented on [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. ❗️ Opened issue [#4943](https://github.com/pypa/pipenv/issues/4943) in [pypa/pipenv](https://github.com/pypa/pipenv)
   <!--END_SECTION:activity-->
     
  </details>
