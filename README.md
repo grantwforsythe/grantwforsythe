@@ -26,8 +26,8 @@
 1. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
 2. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
 3. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
-4. 💪 Opened PR [#22](https://github.com/apratimshukla6/RiRa/pull/22) in [apratimshukla6/RiRa](https://github.com/apratimshukla6/RiRa)
-5. 🗣 Commented on [#6](https://github.com/apratimshukla6/RiRa/issues/6) in [apratimshukla6/RiRa](https://github.com/apratimshukla6/RiRa)
+4. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
+5. 💪 Opened PR [#22](https://github.com/apratimshukla6/RiRa/pull/22) in [apratimshukla6/RiRa](https://github.com/apratimshukla6/RiRa)
   <!--END_SECTION:activity-->
     
  </details>
