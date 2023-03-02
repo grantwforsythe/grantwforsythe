@@ -23,8 +23,8 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
-2. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
+1. 💪 Opened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+2. 💪 Opened PR [#872](https://github.com/Anarios/return-youtube-dislike/pull/872) in [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike)
 3. 🎉 Merged PR [#5](https://github.com/grantwforsythe/ARIMA-Model/pull/5) in [grantwforsythe/ARIMA-Model](https://github.com/grantwforsythe/ARIMA-Model)
 4. 🎉 Merged PR [#3](https://github.com/grantwforsythe/goodwin-keen-model/pull/3) in [grantwforsythe/goodwin-keen-model](https://github.com/grantwforsythe/goodwin-keen-model)
 5. 🗣 Commented on [#310](https://github.com/HtmlUnit/htmlunit/issues/310) in [HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)
