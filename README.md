@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-2. ❌ Reopened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-3. ❌ Closed PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-4. 💪 Opened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-5. 💪 Opened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+1. ❌ Reopened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+2. ❌ Closed PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+3. ❌ Reopened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+4. ❌ Closed PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+5. 💪 Opened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
   <!--END_SECTION:activity-->
     
  </details>
