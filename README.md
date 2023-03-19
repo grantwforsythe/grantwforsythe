@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/issues/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-2. ❌ Reopened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-3. ❌ Closed PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-4. ❌ Reopened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-5. ❌ Closed PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+1. ❗️ Opened issue [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+2. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/issues/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+3. ❌ Reopened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+4. ❌ Closed PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+5. ❌ Reopened PR [#1](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/pull/1) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
   <!--END_SECTION:activity-->
     
  </details>
