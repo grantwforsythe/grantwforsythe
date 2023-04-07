@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-2. ❗️ Opened issue [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-3. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/issues/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-4. ❌ Reopened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-5. ❌ Closed PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+1. ❗️ Opened issue [#1130](https://github.com/mtxr/vscode-sqltools/issues/1130) in [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools)
+2. 🗣 Commented on [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+3. ❗️ Opened issue [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+4. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/issues/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+5. ❌ Reopened PR [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
   <!--END_SECTION:activity-->
     
  </details>
