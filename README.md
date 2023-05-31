@@ -25,9 +25,9 @@
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#731](https://github.com/ladjs/supertest/issues/731) in [ladjs/supertest](https://github.com/ladjs/supertest)
 2. 🗣 Commented on [#731](https://github.com/ladjs/supertest/issues/731) in [ladjs/supertest](https://github.com/ladjs/supertest)
-3. ❗️ Opened issue [#1130](https://github.com/mtxr/vscode-sqltools/issues/1130) in [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools)
+3. ❗ Opened issue [#1130](https://github.com/mtxr/vscode-sqltools/issues/1130) in [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools)
 4. 🗣 Commented on [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
-5. ❗️ Opened issue [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
+5. ❗ Opened issue [#2](https://github.com/JWFrancisLaw/jwfrancislaw.github.io/issues/2) in [JWFrancisLaw/jwfrancislaw.github.io](https://github.com/JWFrancisLaw/jwfrancislaw.github.io)
   <!--END_SECTION:activity-->
     
  </details>
