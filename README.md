@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#608](https://github.com/sql-formatter-org/sql-formatter/issues/608) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
-2. 💪 Opened PR [#609](https://github.com/sql-formatter-org/sql-formatter/pull/609) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
-3. 💪 Opened PR [#608](https://github.com/sql-formatter-org/sql-formatter/pull/608) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
-4. ❌ Closed PR [#607](https://github.com/sql-formatter-org/sql-formatter/pull/607) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
-5. 🗣 Commented on [#607](https://github.com/sql-formatter-org/sql-formatter/issues/607) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+1. 💪 Opened PR [#1](https://github.com/grantwforsythe/tsqllint/pull/1) in [grantwforsythe/tsqllint](https://github.com/grantwforsythe/tsqllint)
+2. 🗣 Commented on [#608](https://github.com/sql-formatter-org/sql-formatter/issues/608) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+3. 💪 Opened PR [#609](https://github.com/sql-formatter-org/sql-formatter/pull/609) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+4. 💪 Opened PR [#608](https://github.com/sql-formatter-org/sql-formatter/pull/608) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+5. ❌ Closed PR [#607](https://github.com/sql-formatter-org/sql-formatter/pull/607) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
   <!--END_SECTION:activity-->
     
  </details>
