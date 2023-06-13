@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#327](https://github.com/tsqllint/tsqllint/pull/327) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
-2. ❌ Closed PR [#1](https://github.com/grantwforsythe/tsqllint/pull/1) in [grantwforsythe/tsqllint](https://github.com/grantwforsythe/tsqllint)
-3. 🗣 Commented on [#609](https://github.com/sql-formatter-org/sql-formatter/issues/609) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
-4. 💪 Opened PR [#1](https://github.com/grantwforsythe/tsqllint/pull/1) in [grantwforsythe/tsqllint](https://github.com/grantwforsythe/tsqllint)
-5. 🗣 Commented on [#608](https://github.com/sql-formatter-org/sql-formatter/issues/608) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+1. 🗣 Commented on [#610](https://github.com/sql-formatter-org/sql-formatter/issues/610) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+2. 💪 Opened PR [#327](https://github.com/tsqllint/tsqllint/pull/327) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
+3. ❌ Closed PR [#1](https://github.com/grantwforsythe/tsqllint/pull/1) in [grantwforsythe/tsqllint](https://github.com/grantwforsythe/tsqllint)
+4. 🗣 Commented on [#609](https://github.com/sql-formatter-org/sql-formatter/issues/609) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+5. 💪 Opened PR [#1](https://github.com/grantwforsythe/tsqllint/pull/1) in [grantwforsythe/tsqllint](https://github.com/grantwforsythe/tsqllint)
   <!--END_SECTION:activity-->
     
  </details>
