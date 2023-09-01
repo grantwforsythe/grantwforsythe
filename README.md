@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#266](https://github.com/sainnhe/gruvbox-material-vscode/issues/266) in [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
-2. 🎉 Merged PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
-3. 💪 Opened PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
-4. ❗ Opened issue [#328](https://github.com/tsqllint/tsqllint/issues/328) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
-5. 🗣 Commented on [#610](https://github.com/sql-formatter-org/sql-formatter/issues/610#issuecomment-1589835318) in [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+1. 💪 Opened PR [#15](https://github.com/iamismile/web-dev-resources/pull/15) in [iamismile/web-dev-resources](https://github.com/iamismile/web-dev-resources)
+2. ❗ Opened issue [#266](https://github.com/sainnhe/gruvbox-material-vscode/issues/266) in [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
+3. 🎉 Merged PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
+4. 💪 Opened PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
+5. ❗ Opened issue [#328](https://github.com/tsqllint/tsqllint/issues/328) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
   <!--END_SECTION:activity-->
     
  </details>
