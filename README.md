@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/tsqllint/tsqllint/issues/262#issuecomment-1721353627) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
-2. 💪 Opened PR [#15](https://github.com/iamismile/web-dev-resources/pull/15) in [iamismile/web-dev-resources](https://github.com/iamismile/web-dev-resources)
-3. ❗ Opened issue [#266](https://github.com/sainnhe/gruvbox-material-vscode/issues/266) in [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
-4. 🎉 Merged PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
-5. 💪 Opened PR [#1](https://github.com/grantwforsythe/fullstackopen/pull/1) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
+1. 🎉 Merged PR [#2](https://github.com/grantwforsythe/fullstackopen/pull/2) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
+2. 💪 Opened PR [#2](https://github.com/grantwforsythe/fullstackopen/pull/2) in [grantwforsythe/fullstackopen](https://github.com/grantwforsythe/fullstackopen)
+3. 🗣 Commented on [#262](https://github.com/tsqllint/tsqllint/issues/262#issuecomment-1721353627) in [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint)
+4. 💪 Opened PR [#15](https://github.com/iamismile/web-dev-resources/pull/15) in [iamismile/web-dev-resources](https://github.com/iamismile/web-dev-resources)
+5. ❗ Opened issue [#266](https://github.com/sainnhe/gruvbox-material-vscode/issues/266) in [sainnhe/gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
   <!--END_SECTION:activity-->
     
  </details>
