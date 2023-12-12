@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3362](https://github.com/ionic-team/stencil/issues/3362#issuecomment-1850951288) in [ionic-team/stencil](https://github.com/ionic-team/stencil)
-2. 🗣 Commented on [#31](https://github.com/roadmapsh/next.roadmap.sh/issues/31#issuecomment-1786363852) in [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
-3. 🗣 Commented on [#1085](https://github.com/swimlane/ngx-datatable/issues/1085#issuecomment-1777193079) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
-4. 🗣 Commented on [#16](https://github.com/DavidAnson/ConvertTo-Jpeg/issues/16#issuecomment-1746072125) in [DavidAnson/ConvertTo-Jpeg](https://github.com/DavidAnson/ConvertTo-Jpeg)
-5. 🗣 Commented on [#16](https://github.com/DavidAnson/ConvertTo-Jpeg/issues/16#issuecomment-1746038165) in [DavidAnson/ConvertTo-Jpeg](https://github.com/DavidAnson/ConvertTo-Jpeg)
+1. 💪 Opened PR [#7](https://github.com/prismaui/prismaui/pull/7) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
+2. ❗ Opened issue [#6](https://github.com/prismaui/prismaui/issues/6) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
+3. 🗣 Commented on [#3362](https://github.com/ionic-team/stencil/issues/3362#issuecomment-1850951288) in [ionic-team/stencil](https://github.com/ionic-team/stencil)
+4. 🗣 Commented on [#31](https://github.com/roadmapsh/next.roadmap.sh/issues/31#issuecomment-1786363852) in [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
+5. 🗣 Commented on [#1085](https://github.com/swimlane/ngx-datatable/issues/1085#issuecomment-1777193079) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
   <!--END_SECTION:activity-->
     
  </details>
