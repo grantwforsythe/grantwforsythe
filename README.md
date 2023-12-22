@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372#issuecomment-1856132469) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-2. 💪 Opened PR [#7](https://github.com/prismaui/prismaui/pull/7) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
-3. ❗ Opened issue [#6](https://github.com/prismaui/prismaui/issues/6) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
-4. 🗣 Commented on [#3362](https://github.com/ionic-team/stencil/issues/3362#issuecomment-1850951288) in [ionic-team/stencil](https://github.com/ionic-team/stencil)
-5. 🗣 Commented on [#31](https://github.com/roadmapsh/next.roadmap.sh/issues/31#issuecomment-1786363852) in [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh)
+1. 🗣 Commented on [#933](https://github.com/commitizen/cz-cli/issues/933#issuecomment-1868005431) in [commitizen/cz-cli](https://github.com/commitizen/cz-cli)
+2. 🗣 Commented on [#3372](https://github.com/javascript-tutorial/en.javascript.info/pull/3372#issuecomment-1856132469) in [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
+3. 💪 Opened PR [#7](https://github.com/prismaui/prismaui/pull/7) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
+4. ❗ Opened issue [#6](https://github.com/prismaui/prismaui/issues/6) in [prismaui/prismaui](https://github.com/prismaui/prismaui)
+5. 🗣 Commented on [#3362](https://github.com/ionic-team/stencil/issues/3362#issuecomment-1850951288) in [ionic-team/stencil](https://github.com/ionic-team/stencil)
   <!--END_SECTION:activity-->
     
  </details>
