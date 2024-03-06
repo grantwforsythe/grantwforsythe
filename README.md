@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/grantwforsythe/ynab-custom-reports/pull/2) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-2. 💪 Opened PR [#2](https://github.com/grantwforsythe/ynab-custom-reports/pull/2) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-3. 🎉 Merged PR [#1](https://github.com/grantwforsythe/ynab-custom-reports/pull/1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-4. 💪 Opened PR [#1](https://github.com/grantwforsythe/ynab-custom-reports/pull/1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-5. ❗ Opened issue [#3361](https://github.com/toolkit-for-ynab/toolkit-for-ynab/issues/3361) in [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab)
+1. 🚀 Published release [0.0.1](https://github.com/grantwforsythe/ynab-custom-reports/releases/tag/0.0.1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+2. 🎉 Merged PR [#2](https://github.com/grantwforsythe/ynab-custom-reports/pull/2) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+3. 💪 Opened PR [#2](https://github.com/grantwforsythe/ynab-custom-reports/pull/2) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+4. 🎉 Merged PR [#1](https://github.com/grantwforsythe/ynab-custom-reports/pull/1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+5. 💪 Opened PR [#1](https://github.com/grantwforsythe/ynab-custom-reports/pull/1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
   <!--END_SECTION:activity-->
     
  </details>
