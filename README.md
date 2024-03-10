@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/grantwforsythe/ynab-custom-reports/pull/3) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-2. 💪 Opened PR [#3](https://github.com/grantwforsythe/ynab-custom-reports/pull/3) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-3. 🚀 Published release [0.0.2](https://github.com/grantwforsythe/ynab-custom-reports/releases/tag/0.0.2) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
-4. 💪 Opened PR [#1241](https://github.com/angular/material.angular.io/pull/1241) in [angular/material.angular.io](https://github.com/angular/material.angular.io)
-5. 🚀 Published release [0.0.1](https://github.com/grantwforsythe/ynab-custom-reports/releases/tag/0.0.1) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+1. 💪 Opened PR [#1737](https://github.com/usebruno/bruno/pull/1737) in [usebruno/bruno](https://github.com/usebruno/bruno)
+2. ❌ Closed PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
+3. 💪 Opened PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
+4. ❗ Opened issue [#1736](https://github.com/usebruno/bruno/issues/1736) in [usebruno/bruno](https://github.com/usebruno/bruno)
+5. 🎉 Merged PR [#3](https://github.com/grantwforsythe/ynab-custom-reports/pull/3) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
   <!--END_SECTION:activity-->
     
  </details>
