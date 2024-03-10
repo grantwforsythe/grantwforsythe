@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1737](https://github.com/usebruno/bruno/pull/1737) in [usebruno/bruno](https://github.com/usebruno/bruno)
-2. ❌ Closed PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
-3. 💪 Opened PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
-4. ❗ Opened issue [#1736](https://github.com/usebruno/bruno/issues/1736) in [usebruno/bruno](https://github.com/usebruno/bruno)
-5. 🎉 Merged PR [#3](https://github.com/grantwforsythe/ynab-custom-reports/pull/3) in [grantwforsythe/ynab-custom-reports](https://github.com/grantwforsythe/ynab-custom-reports)
+1. 🗣 Commented on [#1737](https://github.com/usebruno/bruno/pull/1737#issuecomment-1987376304) in [usebruno/bruno](https://github.com/usebruno/bruno)
+2. 💪 Opened PR [#1737](https://github.com/usebruno/bruno/pull/1737) in [usebruno/bruno](https://github.com/usebruno/bruno)
+3. ❌ Closed PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
+4. 💪 Opened PR [#1](https://github.com/grantwforsythe/bruno/pull/1) in [grantwforsythe/bruno](https://github.com/grantwforsythe/bruno)
+5. ❗ Opened issue [#1736](https://github.com/usebruno/bruno/issues/1736) in [usebruno/bruno](https://github.com/usebruno/bruno)
   <!--END_SECTION:activity-->
     
  </details>
