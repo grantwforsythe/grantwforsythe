@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.0.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.0.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🗣 Commented on [#1241](https://github.com/angular/material.angular.io/pull/1241#issuecomment-2024287525) in [angular/material.angular.io](https://github.com/angular/material.angular.io)
-3. ❌ Closed PR [#1241](https://github.com/angular/material.angular.io/pull/1241) in [angular/material.angular.io](https://github.com/angular/material.angular.io)
-4. 🗣 Commented on [#3361](https://github.com/toolkit-for-ynab/toolkit-for-ynab/issues/3361#issuecomment-2023961308) in [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab)
-5. 🗣 Commented on [#1737](https://github.com/usebruno/bruno/pull/1737#issuecomment-1987376304) in [usebruno/bruno](https://github.com/usebruno/bruno)
+1. 🚀 Published release [Release 1.0.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.1.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#6](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/6) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 🎉 Merged PR [#5](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/5) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🎉 Merged PR [#4](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/4) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🗣 Commented on [#4](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/4#issuecomment-2030972918) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
