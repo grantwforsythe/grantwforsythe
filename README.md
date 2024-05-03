@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 💪 Opened PR [#1474](https://github.com/devlooped/moq/pull/1474) in [devlooped/moq](https://github.com/devlooped/moq)
-3. ❗ Opened issue [#1473](https://github.com/devlooped/moq/issues/1473) in [devlooped/moq](https://github.com/devlooped/moq)
-4. 💪 Opened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 💪 Opened PR [#7](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/7) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🎉 Merged PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 💪 Opened PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#1474](https://github.com/devlooped/moq/pull/1474) in [devlooped/moq](https://github.com/devlooped/moq)
+4. ❗ Opened issue [#1473](https://github.com/devlooped/moq/issues/1473) in [devlooped/moq](https://github.com/devlooped/moq)
+5. 💪 Opened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
