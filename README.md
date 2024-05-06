@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2094221426) in [codecov/feedback](https://github.com/codecov/feedback)
-2. 🎉 Merged PR [#11](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/11) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 💪 Opened PR [#11](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/11) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🎉 Merged PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 💪 Opened PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🎉 Merged PR [#7](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/7) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2094221426) in [codecov/feedback](https://github.com/codecov/feedback)
+3. 🎉 Merged PR [#11](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/11) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 💪 Opened PR [#11](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/11) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🎉 Merged PR [#9](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/9) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
