@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/13) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🎉 Merged PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 💪 Opened PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🚀 Published release [1.3.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.3.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🎉 Merged PR [#7](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/7) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
