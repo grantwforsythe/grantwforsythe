@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🗣 Commented on [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10#issuecomment-2099266759) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
