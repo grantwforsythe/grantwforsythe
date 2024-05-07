@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 💪 Opened PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 🚀 Published release [1.3.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.3.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🎉 Merged PR [#7](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/7) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2094221426) in [codecov/feedback](https://github.com/codecov/feedback)
+1. 💪 Opened PR [#13](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/13) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#12](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/12) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🚀 Published release [1.3.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.3.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🎉 Merged PR [#7](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/7) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
