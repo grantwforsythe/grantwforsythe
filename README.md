@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/treosh/lighthouse-ci-action/issues/116#issuecomment-2103341442) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
-2. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 🗣 Commented on [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10#issuecomment-2099266759) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. ❌ Closed PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 🗣 Commented on [#116](https://github.com/treosh/lighthouse-ci-action/issues/116#issuecomment-2103341442) in [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
+4. ❌ Reopened PR [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🗣 Commented on [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10#issuecomment-2099266759) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
