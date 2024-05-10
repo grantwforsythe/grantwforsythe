@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🗣 Commented on [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10#issuecomment-2103671634) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 🎉 Merged PR [#14](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/14) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 💪 Opened PR [#14](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/14) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🗣 Commented on [#8](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/8#issuecomment-2103415461) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🚀 Published release [Release 1.4.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.4.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 🗣 Commented on [#10](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/10#issuecomment-2103671634) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🎉 Merged PR [#14](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/14) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 💪 Opened PR [#14](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/14) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
