@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.6.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.6.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2111261871) in [codecov/feedback](https://github.com/codecov/feedback)
-3. 🚀 Published release [Release 1.5.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.5.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🎉 Merged PR [#15](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/15) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 💪 Opened PR [#15](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/15) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🎉 Merged PR [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🗣 Commented on [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16#issuecomment-2137276760) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🚀 Published release [Release 1.6.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.6.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2111261871) in [codecov/feedback](https://github.com/codecov/feedback)
   <!--END_SECTION:activity-->
     
  </details>
