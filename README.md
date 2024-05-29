@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🗣 Commented on [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16#issuecomment-2137276760) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 💪 Opened PR [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🚀 Published release [Release 1.6.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.6.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🗣 Commented on [#270](https://github.com/codecov/feedback/issues/270#issuecomment-2111261871) in [codecov/feedback](https://github.com/codecov/feedback)
+1. 💪 Opened PR [#18](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/18) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#17](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/17) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#17](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/17) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🎉 Merged PR [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🗣 Commented on [#16](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/16#issuecomment-2137276760) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
