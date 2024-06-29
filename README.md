@@ -23,10 +23,10 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/grantwforsythe/monkeylang/pull/1) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-2. 💪 Opened PR [#1](https://github.com/grantwforsythe/monkeylang/pull/1) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-3. 🎉 Merged PR [#19](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/19) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🎉 Merged PR [#17](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/17) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 💪 Opened PR [#2](https://github.com/grantwforsythe/monkeylang/pull/2) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+2. 🎉 Merged PR [#1](https://github.com/grantwforsythe/monkeylang/pull/1) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+3. 💪 Opened PR [#1](https://github.com/grantwforsythe/monkeylang/pull/1) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+4. 🎉 Merged PR [#19](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/19) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 5. 💪 Opened PR [#17](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/17) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
