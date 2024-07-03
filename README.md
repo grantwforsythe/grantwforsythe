@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🎉 Merged PR [#21](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/21) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 💪 Opened PR [#21](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/21) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 🎉 Merged PR [#20](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/20) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🎉 Merged PR [#2](https://github.com/grantwforsythe/monkeylang/pull/2) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+1. 🚀 Published release [Release 1.7.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.7.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🎉 Merged PR [#21](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/21) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 💪 Opened PR [#21](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/21) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
