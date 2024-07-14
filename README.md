@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/18) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🚀 Published release [Release 1.7.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.7.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 🎉 Merged PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 💪 Opened PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-5. 🎉 Merged PR [#21](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/21) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🎉 Merged PR [#23](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/23) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 💪 Opened PR [#23](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/23) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 🎉 Merged PR [#18](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/18) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🚀 Published release [Release 1.7.0](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.7.0) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 🎉 Merged PR [#22](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/22) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
