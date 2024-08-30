@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/grantwforsythe/monkeylang/pull/5) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-2. 💪 Opened PR [#5](https://github.com/grantwforsythe/monkeylang/pull/5) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-3. 🎉 Merged PR [#4](https://github.com/grantwforsythe/monkeylang/pull/4) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-4. 💪 Opened PR [#4](https://github.com/grantwforsythe/monkeylang/pull/4) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
-5. 🎉 Merged PR [#3](https://github.com/grantwforsythe/monkeylang/pull/3) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+1. 🎉 Merged PR [#6](https://github.com/grantwforsythe/monkeylang/pull/6) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+2. 💪 Opened PR [#6](https://github.com/grantwforsythe/monkeylang/pull/6) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+3. 🎉 Merged PR [#5](https://github.com/grantwforsythe/monkeylang/pull/5) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+4. 💪 Opened PR [#5](https://github.com/grantwforsythe/monkeylang/pull/5) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+5. 🎉 Merged PR [#4](https://github.com/grantwforsythe/monkeylang/pull/4) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
   <!--END_SECTION:activity-->
     
  </details>
