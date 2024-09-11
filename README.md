@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-2. 💪 Opened PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-3. 🎉 Merged PR [#7](https://github.com/grantwforsythe/monkey/pull/7) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-4. 💪 Opened PR [#7](https://github.com/grantwforsythe/monkey/pull/7) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-5. 🎉 Merged PR [#6](https://github.com/grantwforsythe/monkeylang/pull/6) in [grantwforsythe/monkeylang](https://github.com/grantwforsythe/monkeylang)
+1. 🗣 Commented on [#47](https://github.com/sindresorhus/cpy-cli/issues/47#issuecomment-2342324392) in [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli)
+2. 🎉 Merged PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+3. 💪 Opened PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+4. 🎉 Merged PR [#7](https://github.com/grantwforsythe/monkey/pull/7) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+5. 💪 Opened PR [#7](https://github.com/grantwforsythe/monkey/pull/7) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
   <!--END_SECTION:activity-->
     
  </details>
