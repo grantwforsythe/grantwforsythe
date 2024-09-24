@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-2. 💪 Opened PR [#4147](https://github.com/conventional-changelog/commitlint/pull/4147) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-3. 🗣 Commented on [#47](https://github.com/sindresorhus/cpy-cli/issues/47#issuecomment-2342324392) in [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli)
-4. 🎉 Merged PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-5. 💪 Opened PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+1. 🎉 Merged PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+2. 💪 Opened PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+3. 💪 Opened PR [#4147](https://github.com/conventional-changelog/commitlint/pull/4147) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+4. 🗣 Commented on [#47](https://github.com/sindresorhus/cpy-cli/issues/47#issuecomment-2342324392) in [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli)
+5. 🎉 Merged PR [#8](https://github.com/grantwforsythe/monkey/pull/8) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
   <!--END_SECTION:activity-->
     
  </details>
