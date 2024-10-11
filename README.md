@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/grantwforsythe/monkey/pull/10) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-2. 💪 Opened PR [#10](https://github.com/grantwforsythe/monkey/pull/10) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-3. 💪 Opened PR [#29225](https://github.com/storybookjs/storybook/pull/29225) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🎉 Merged PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-5. 💪 Opened PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+1. 🗣 Commented on [#1607](https://github.com/espanso/espanso/issues/1607#issuecomment-2406367430) in [espanso/espanso](https://github.com/espanso/espanso)
+2. 🎉 Merged PR [#10](https://github.com/grantwforsythe/monkey/pull/10) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+3. 💪 Opened PR [#10](https://github.com/grantwforsythe/monkey/pull/10) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+4. 💪 Opened PR [#29225](https://github.com/storybookjs/storybook/pull/29225) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🎉 Merged PR [#9](https://github.com/grantwforsythe/monkey/pull/9) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
   <!--END_SECTION:activity-->
     
  </details>
