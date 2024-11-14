@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#225](https://github.com/altmann/FluentResults/pull/225) in [altmann/FluentResults](https://github.com/altmann/FluentResults)
-2. 💪 Opened PR [#1](https://github.com/grantwforsythe/storybook-sandbox/pull/1) in [grantwforsythe/storybook-sandbox](https://github.com/grantwforsythe/storybook-sandbox)
-3. 🗣 Commented on [#4583](https://github.com/lit/lit/pull/4583#issuecomment-2417812778) in [lit/lit](https://github.com/lit/lit)
-4. 🎉 Merged PR [#12](https://github.com/grantwforsythe/monkey/pull/12) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
-5. 💪 Opened PR [#12](https://github.com/grantwforsythe/monkey/pull/12) in [grantwforsythe/monkey](https://github.com/grantwforsythe/monkey)
+1. ❗ Opened issue [#26](https://github.com/grantwforsythe/custom-reports-for-ynab/issues/26) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. ❗ Opened issue [#25](https://github.com/grantwforsythe/custom-reports-for-ynab/issues/25) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#225](https://github.com/altmann/FluentResults/pull/225) in [altmann/FluentResults](https://github.com/altmann/FluentResults)
+4. 💪 Opened PR [#1](https://github.com/grantwforsythe/storybook-sandbox/pull/1) in [grantwforsythe/storybook-sandbox](https://github.com/grantwforsythe/storybook-sandbox)
+5. 🗣 Commented on [#4583](https://github.com/lit/lit/pull/4583#issuecomment-2417812778) in [lit/lit](https://github.com/lit/lit)
   <!--END_SECTION:activity-->
     
  </details>
