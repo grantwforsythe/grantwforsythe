@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/jellyfin/.github/pull/49) in [jellyfin/.github](https://github.com/jellyfin/.github)
-2. 💪 Opened PR [#136](https://github.com/siemens/ngx-datatable/pull/136) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
-3. ❗ Opened issue [#135](https://github.com/siemens/ngx-datatable/issues/135) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
-4. 🗣 Commented on [#1165](https://github.com/swimlane/ngx-datatable/issues/1165#issuecomment-2537682312) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
-5. 💪 Opened PR [#3546](https://github.com/toolkit-for-ynab/toolkit-for-ynab/pull/3546) in [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab)
+1. 🗣 Commented on [#1445](https://github.com/swimlane/ngx-datatable/issues/1445#issuecomment-2575350244) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
+2. 🗣 Commented on [#1085](https://github.com/swimlane/ngx-datatable/issues/1085#issuecomment-2575344199) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
+3. 💪 Opened PR [#49](https://github.com/jellyfin/.github/pull/49) in [jellyfin/.github](https://github.com/jellyfin/.github)
+4. 💪 Opened PR [#136](https://github.com/siemens/ngx-datatable/pull/136) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
+5. ❗ Opened issue [#135](https://github.com/siemens/ngx-datatable/issues/135) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
   <!--END_SECTION:activity-->
     
  </details>
