@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1092](https://github.com/lewis6991/gitsigns.nvim/issues/1092#issuecomment-2582722137) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
-2. 🗣 Commented on [#1445](https://github.com/swimlane/ngx-datatable/issues/1445#issuecomment-2575350244) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
-3. 🗣 Commented on [#1085](https://github.com/swimlane/ngx-datatable/issues/1085#issuecomment-2575344199) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
-4. 💪 Opened PR [#49](https://github.com/jellyfin/.github/pull/49) in [jellyfin/.github](https://github.com/jellyfin/.github)
-5. 💪 Opened PR [#136](https://github.com/siemens/ngx-datatable/pull/136) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
+1. ❌ Closed PR [#3546](https://github.com/toolkit-for-ynab/toolkit-for-ynab/pull/3546) in [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab)
+2. 🗣 Commented on [#1092](https://github.com/lewis6991/gitsigns.nvim/issues/1092#issuecomment-2582722137) in [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+3. 🗣 Commented on [#1445](https://github.com/swimlane/ngx-datatable/issues/1445#issuecomment-2575350244) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
+4. 🗣 Commented on [#1085](https://github.com/swimlane/ngx-datatable/issues/1085#issuecomment-2575344199) in [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable)
+5. 💪 Opened PR [#49](https://github.com/jellyfin/.github/pull/49) in [jellyfin/.github](https://github.com/jellyfin/.github)
   <!--END_SECTION:activity-->
     
  </details>
