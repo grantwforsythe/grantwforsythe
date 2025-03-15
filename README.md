@@ -23,9 +23,9 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/siemens/lint/pull/18#issuecomment-2670192878) in [siemens/lint](https://github.com/siemens/lint)
-2. 🗣 Commented on [#18](https://github.com/siemens/lint/pull/18#issuecomment-2643714525) in [siemens/lint](https://github.com/siemens/lint)
-3. 🔒 Closed issue [#135](https://github.com/siemens/ngx-datatable/issues/135) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
+1. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 💪 Opened PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 🗣 Commented on [#18](https://github.com/siemens/lint/pull/18#issuecomment-2670192878) in [siemens/lint](https://github.com/siemens/lint)
 4. 💪 Opened PR [#18](https://github.com/siemens/lint/pull/18) in [siemens/lint](https://github.com/siemens/lint)
 5. 🗣 Commented on [#136](https://github.com/siemens/ngx-datatable/pull/136#issuecomment-2629226584) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
   <!--END_SECTION:activity-->
