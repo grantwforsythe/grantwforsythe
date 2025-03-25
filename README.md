@@ -23,11 +23,11 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-2. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-3. 💪 Opened PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
-4. 💪 Opened PR [#18](https://github.com/siemens/lint/pull/18) in [siemens/lint](https://github.com/siemens/lint)
-5. 🗣 Commented on [#136](https://github.com/siemens/ngx-datatable/pull/136#issuecomment-2629226584) in [siemens/ngx-datatable](https://github.com/siemens/ngx-datatable)
+1. 🚀 Published release [Release 1.7.1](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.7.1) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+2. 🎉 Merged PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+3. 💪 Opened PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+4. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+5. 💪 Opened PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
   <!--END_SECTION:activity-->
     
  </details>
