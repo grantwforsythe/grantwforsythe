@@ -23,7 +23,7 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.7.1](https://github.com/grantwforsythe/custom-reports-for-ynab/releases/tag/1.7.1) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
+1. 🗣 Commented on [#31](https://github.com/grantwforsythe/custom-reports-for-ynab/issues/31#issuecomment-2895342252) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 2. 🎉 Merged PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 3. 💪 Opened PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 4. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
