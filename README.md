@@ -23,7 +23,7 @@
     <summary>⚡ Recent Activity</summary>
     
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6591](https://github.com/wezterm/wezterm/issues/6591#issuecomment-2954155910) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+1. 💪 Opened PR [#833](undefined) in [snyk/user-docs](https://github.com/snyk/user-docs)
 2. 🗣 Commented on [#31](https://github.com/grantwforsythe/custom-reports-for-ynab/issues/31#issuecomment-2895342252) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 3. 💪 Opened PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 4. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
