@@ -24,7 +24,7 @@
     
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#833](https://github.com/snyk/user-docs/pull/833#issuecomment-3632904729) in [snyk/user-docs](https://github.com/snyk/user-docs)
-2. 💪 Opened PR [#833](undefined) in [snyk/user-docs](https://github.com/snyk/user-docs)
+2. 💪 Opened PR [#833](https://github.com/snyk/user-docs/pull/833) in [snyk/user-docs](https://github.com/snyk/user-docs)
 3. 💪 Opened PR [#28](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/28) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 4. 🎉 Merged PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
 5. 💪 Opened PR [#27](https://github.com/grantwforsythe/custom-reports-for-ynab/pull/27) in [grantwforsythe/custom-reports-for-ynab](https://github.com/grantwforsythe/custom-reports-for-ynab)
