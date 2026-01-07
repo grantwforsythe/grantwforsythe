@@ -1,6 +1,7 @@
 <p><pre align="center"><strong>Grant Forsythe /</strong> <a href="https://www.grantwforsythe.com/">Homepage</a> / <a href="https://github.com/grantwforsythe">GitHub</a> / <a href="https://gist.github.com/grantwforsythe">Gist</a></pre></p>
  
 <h2 align="left">Profile Summary</h2>
+<!--
 <details open>
     <summary>💻 Profile Stats</summary>
     <div align="center">
@@ -10,15 +11,15 @@
     <p style="font-size: 11px;" align="center">
         <strong>Note:</strong> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </p>
-</details>
-
+</details>-->
+<!--
 <details open>
     <summary>🔥 Streak Stats</summary>
         <div align="center">
             <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=grantwforsythe">
         </div>
 </details>
-
+-->
  <details open>
     <summary>⚡ Recent Activity</summary>
     
