@@ -1,6 +1,7 @@
 <p><pre align="center"><strong>Grant Forsythe /</strong> <a href="https://www.grantwforsythe.com/">Homepage</a> / <a href="https://github.com/grantwforsythe">GitHub</a> / <a href="https://gist.github.com/grantwforsythe">Gist</a></pre></p>
  
 <h2 align="left">Profile Summary</h2>
+
 ![My GitHub Game](game.gif)
 <!--
 <details open>
